@@ -1,0 +1,38 @@
+palette = "whiskers_tiger"
+
+# Add your other configs here
+
+
+[package]
+style = "tangerine bold"
+
+
+[palettes.whiskers_tiger]
+# Starship default colors replaced with whiskers
+yellow = "#A87B0A"
+blue = "#5284BE"
+cyan = "#5284BE"
+red = "#B43A2A"
+purple = "#7D0E70"
+green = "#6A9534"
+white = "#FFFCF8"
+black = "#3E1900"
+# Whiskers colors
+banana = "#A87B0A"
+blueberry = "#5284BE"
+cherry = "#B43A2A"
+grape = "#7D0E70"
+kiwi = "#6A9534"
+tangerine = "#C15D01"
+neutral = "#FFFCF8"
+neutral_two = "#FFF9F0"
+neutral_three = "#FFF5E7"
+neutral_for = "#FFF3E2"
+neutral_five = "#FFF1DD"
+neutral_six = "#FFF0DA"
+neutral_seven = "#FFEFD7"
+neutral_eight = "#FFECCF"
+text = "#3E1900"
+text_two = "#865C3A"
+text_three = "#A17A5A"
+text_for = "#AE917C"
